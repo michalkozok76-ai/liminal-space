@@ -1,0 +1,89 @@
+body {
+  font-family: Public Sans;
+  margin: 0;
+}
+
+h1 {
+  font-size: 30px;
+  font-weight: 700;
+  display: inline;
+}
+
+p {
+  margin: 0;
+}
+
+figcaption {
+  text-align: center;
+  font-size: 14px;
+}
+
+.page-main-content {
+  max-width: 700px;
+  margin-top: 40px;
+  margin: 0 auto;
+}
+
+.page-title {
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 40px;
+}
+
+.sd-container {
+  background-color: lightgray;
+  display: inline-block;
+  margin-left: 25px;
+  margin-bottom: 25px;
+}
+
+.top-box {
+  margin-bottom: 20px;
+}
+
+.top-text {
+  font-size: 22px;
+  font-weight: 400;
+}
+.section {
+  display: flex;
+  align-items: center;
+}
+
+.middle-dot {
+  background-color: black;
+  width: 8px;
+  height: 8px;
+  border-radius: 999px;
+}
+
+.safety,
+.security,
+.entity-count {
+  font-size: 24px;
+  font-weight: 600;
+  margin-left: 5px;
+}
+
+.bottom-text {
+  font-size: 32px;
+  font-weight: 700;
+}
+
+p {
+  font-size: 15px;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+
+.obrazek {
+  float: right;
+  width: 300px;
+  margin: 0 0 20px 30px;
+}
+
+.obrazek img {
+  width: 100%;
+  display: block;
+}
