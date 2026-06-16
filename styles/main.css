@@ -1,0 +1,31 @@
+.page-content {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+.page-title {
+  font-size: 30px;
+  font-weight: 700;
+  margin-top: 15px;
+  margin-bottom: 30px;
+}
+
+.image-box {
+  float: right;
+  width: 300px;
+  background: rgb(252, 252, 252);
+  text-align: center;
+  margin: 0 0 15px 30px;
+}
+
+.image-box img {
+  width: 100%;
+  display: block;
+}
+
+.image-box figcaption {
+  padding: 6px;
+  color: rgb(31, 28, 20);
+  font-size: 13.5px;
+}
